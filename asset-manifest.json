@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/joka-forum/static/css/main.e6c13ad2.css",
-    "main.js": "/joka-forum/static/js/main.c55680a5.js",
+    "main.js": "/joka-forum/static/js/main.8ff76d77.js",
     "static/js/453.2da25bf6.chunk.js": "/joka-forum/static/js/453.2da25bf6.chunk.js",
     "static/media/backgroundImage.png": "/joka-forum/static/media/backgroundImage.031308227f3bd9586fa9.png",
     "static/media/united_stand.png": "/joka-forum/static/media/united_stand.8b06c34eeb2c40e4fc56.png",
     "static/media/digital_divide.png": "/joka-forum/static/media/digital_divide.8f7e7a02f99e61277681.png",
     "static/media/urban_vs_rural_internet_access.png": "/joka-forum/static/media/urban_vs_rural_internet_access.e98f1526f5dbbd47db51.png",
+    "static/media/business_canvas.png": "/joka-forum/static/media/business_canvas.c97a897638d412bf45ad.png",
     "static/media/income_per_person_map.png": "/joka-forum/static/media/income_per_person_map.63648a1c03c52468de01.png",
     "static/media/internet_usage_rate_map.png": "/joka-forum/static/media/internet_usage_rate_map.d968ded0314d9c826938.png",
     "static/media/global_internet_usage_growth.png": "/joka-forum/static/media/global_internet_usage_growth.7d8f2364b518a2205635.png",
@@ -14,11 +15,11 @@
     "static/media/cluster_distribution.png": "/joka-forum/static/media/cluster_distribution.aa9c6c8a853aa2bc6a04.png",
     "index.html": "/joka-forum/index.html",
     "main.e6c13ad2.css.map": "/joka-forum/static/css/main.e6c13ad2.css.map",
-    "main.c55680a5.js.map": "/joka-forum/static/js/main.c55680a5.js.map",
+    "main.8ff76d77.js.map": "/joka-forum/static/js/main.8ff76d77.js.map",
     "453.2da25bf6.chunk.js.map": "/joka-forum/static/js/453.2da25bf6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c55680a5.js"
+    "static/js/main.8ff76d77.js"
   ]
 }
