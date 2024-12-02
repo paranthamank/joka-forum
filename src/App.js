@@ -7,12 +7,13 @@ import SocialEnterprisesPage from './components/SocialEnterprisesPage';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/joka-forum">
       <Header />
       <Routes>
         <Route path="/" element={<MainPage />} />
         <Route path="/social-enterprises" element={<SocialEnterprisesPage />} />
         {/* Add more routes here for other topics */}
+        <Route path="*" element={<div>404 Not Found</div>} />
       </Routes>
       <Footer />
     </Router>

@@ -25,20 +25,21 @@ function BlogPost({ title, subtitle, subtopics, image, imageAlt, additionalConte
           ))}
         </div>
       )}
+      <hr style={styles.divider} /> {/* Divider between posts */}
     </div>
   );
 }
 
 const styles = {
   container: {
-    borderBottom: '1px solid #ddd',
     padding: '20px',
-    marginBottom: '20px',
+    marginBottom: '40px', // Increased space between posts
     maxWidth: '800px',
     margin: '0 auto',
     backgroundColor: '#f9f9f9',
     borderRadius: '8px',
     boxShadow: '0px 4px 6px rgba(0, 0, 0, 0.1)',
+    position: 'relative', // Ensure the container doesn't overlap
   },
   title: {
     fontSize: '2rem',
@@ -87,6 +88,12 @@ const styles = {
     lineHeight: '1.6',
     color: '#555',
     marginTop: '20px',
+  },
+  divider: {
+    border: '0',
+    height: '1px',
+    background: '#ddd',
+    margin: '20px 0',
   },
 };
 
