@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/joka-forum/static/css/main.e6c13ad2.css",
-    "main.js": "/joka-forum/static/js/main.8ed4aa4d.js",
+    "main.js": "/joka-forum/static/js/main.c55680a5.js",
     "static/js/453.2da25bf6.chunk.js": "/joka-forum/static/js/453.2da25bf6.chunk.js",
     "static/media/backgroundImage.png": "/joka-forum/static/media/backgroundImage.031308227f3bd9586fa9.png",
     "static/media/united_stand.png": "/joka-forum/static/media/united_stand.8b06c34eeb2c40e4fc56.png",
@@ -14,11 +14,11 @@
     "static/media/cluster_distribution.png": "/joka-forum/static/media/cluster_distribution.aa9c6c8a853aa2bc6a04.png",
     "index.html": "/joka-forum/index.html",
     "main.e6c13ad2.css.map": "/joka-forum/static/css/main.e6c13ad2.css.map",
-    "main.8ed4aa4d.js.map": "/joka-forum/static/js/main.8ed4aa4d.js.map",
+    "main.c55680a5.js.map": "/joka-forum/static/js/main.c55680a5.js.map",
     "453.2da25bf6.chunk.js.map": "/joka-forum/static/js/453.2da25bf6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8ed4aa4d.js"
+    "static/js/main.c55680a5.js"
   ]
 }
