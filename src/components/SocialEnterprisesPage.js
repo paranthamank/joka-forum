@@ -207,6 +207,76 @@ function SocialEnterprisesPage() {
       additionalContent: `
         **Note:** This is a fictional organizational memo created to illustrate a strategic approach to addressing the digital divide in rural education.
       `,
+    },
+    {
+      title: "A Day in the Life Without Internet: A Rural Student's Struggle",
+      subtitle: "A script for a short documentary exploring the impact of the digital divide on rural education.",
+      subtopics: [
+        {
+          title: "Introduction Scene (Setting the Stage)",
+          content: `
+            Visual Cue: Early morning in a remote village. The sun rises over a lush field; children walk barefoot to school, carrying their books.
+            Sound: Birds chirping, the faint sound of a rooster crowing.
+            Voiceover: "In the heart of rural India, where natural beauty thrives, another story unfolds—a story of missed opportunities, untapped potential, and dreams deferred. This is the story of 12-year-old Ravi, a student navigating the challenges of life without digital access."
+          `
+        },
+        {
+          title: "Scene 1: Morning Routine (Highlighting the Absence of Technology)",
+          content: `
+            Visual Cue: Ravi sits in a dimly lit room, using a kerosene lamp to review his schoolwork. His younger sibling plays outside.
+            Sound: Flickering of the lamp and faint chatter in the background.
+            Dialogues (Ravi’s monologue): "I want to do well in school, but our textbooks are old, and there is no library nearby. My teacher says the internet has so much information, but I’ve never seen it myself."
+            Voiceover: "While children in cities start their day with e-learning tools, Ravi relies on outdated books and his own determination."
+          `
+        },
+        {
+          title: "Scene 2: The Struggle to Learn (Contrasting Urban vs Rural Education)",
+          content: `
+            Visual Cue: Split-screen: One side shows a city student attending an online class on a tablet. The other shows Ravi sitting in a classroom with a blackboard and a broken chalk piece.
+            Voiceover: "Ravi’s school, like many in rural India, lacks basic infrastructure. Internet connectivity is a distant dream, leaving children like Ravi cut off from modern educational tools."
+            Text on Screen: Fact: Only 24% of rural households in India have access to the internet.
+          `
+        },
+        {
+          title: "Scene 3: Afternoon (Barriers Beyond Education)",
+          content: `
+            Visual Cue: Ravi walks to a nearby shop to ask if anyone knows the meaning of a word from his homework.
+            Sound: Background chatter in the village; faint noise of a bicycle passing by.
+            Dialogues (Ravi speaking to shopkeeper): "Uncle, do you know what this word means? I need it for my school assignment."
+            Shopkeeper shakes his head and says: "Why don’t you search for it on the internet?"
+            Ravi replies: "We don’t have the internet at home."
+            Voiceover: "Simple questions remain unanswered, tasks incomplete, and curiosity unfulfilled—all because of the digital divide."
+          `
+        },
+        {
+          title: "Scene 4: Evening Reflection (The Emotional Impact)",
+          content: `
+            Visual Cue: Ravi sits outside his home, watching the stars. His mother cooks on a wood-fired stove nearby.
+            Sound: Crickets chirping, soft breeze.
+            Dialogues (Ravi’s thoughts): "Sometimes, I feel like I’m missing out on so much. My teacher tells us about big libraries and videos that explain everything. If only I could see it for myself."
+            Voiceover: "Ravi dreams of a connected world, where he, too, can explore endless possibilities and build a brighter future."
+          `
+        },
+        {
+          title: "Closing Scene: A Call for Action",
+          content: `
+            Visual Cue: A montage of rural students walking to school, NGOs setting up Wi-Fi towers, and children using refurbished tablets for learning.
+            Voiceover: "It doesn’t have to be this way. With the right investment in digital infrastructure, education, and access to technology, every child in India can have a chance to succeed. It’s time to bridge the digital divide—for Ravi, and for millions like him."
+            Text on Screen: Call to Action: "Join the movement to bridge the digital divide. Every child deserves the chance to dream big and achieve more."
+          `
+        },
+        {
+          title: "Outro (Credits and Acknowledgments)",
+          content: `
+            Visual Cue: A hand-drawn animation of a bridge being built over a chasm, symbolizing the digital divide being closed.
+            Sound: Inspiring music fades out.
+            Text on Screen: "This script was created as part of a digital exhibit to highlight the challenges and solutions for bridging the digital divide in rural India. Let’s make a difference—together."
+          `
+        }
+      ],
+      additionalContent: `
+        This script serves as a call to action for addressing the digital divide in rural education. By highlighting Ravi’s struggles, it paints a poignant picture of the challenges faced by millions of students and emphasizes the urgent need for equitable digital infrastructure and opportunities.
+      `
     }
   ];
 
